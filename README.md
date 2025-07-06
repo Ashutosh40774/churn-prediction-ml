@@ -22,6 +22,7 @@ Project Structure
 ```
 ├── data/
 │   └── final_churn_dataset.csv
+|   |___ telco_churn.csv
 │
 ├── plots/
 │   └── Model Comparison Chart.png
