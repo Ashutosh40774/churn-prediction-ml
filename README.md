@@ -39,12 +39,4 @@ Requirements
 - xgboost
 
 Usage
-Run notebooks in order:
-1. 01_data_cleaning_eda.ipynb`
-2. 02_logistic_smote.ipynb`
-3. 03_xgboost_smote.ipynb`
-4. 04_stacked_smote.ipynb`
-5. 05_nn_smote.ipynb`
-6. 06_model_comparison.ipynb`
-
-NOTE : IF you are using the final_churn_dataset.csv then directly import into models and run.
+Run notebook Churn_analysis_ML
