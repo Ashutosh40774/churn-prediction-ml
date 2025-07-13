@@ -93,13 +93,6 @@ You can run the notebook cell-by-cell or end-to-end to view the complete pipelin
 
 ---
 
-Resume Bullet Point
-
-> Customer Churn Prediction (GitHub Project)
-> Built a complete churn prediction pipeline using Python. Handled data imbalance with SMOTE. Compared multiple models including XGBoost, Logistic Regression, and Neural Networks. Achieved ROC AUC of 91%. Delivered interpretable and actionable business insights.
-
----
-
 Author
 
 **Ashutosh Sharan**  
